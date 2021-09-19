@@ -2,7 +2,7 @@ body {
     background: url("https://s3.envato.com/files/3462d427-2081-4647-abe1-0547a40dbe92/inline_image_preview.jpg");
     background: position 100%;
     background-size: cover;
-    background-repeat:no-repeat;
+    background-repeat:repeat; /*when open in small screen than background shows twice */
         }
 
 #ferris{
